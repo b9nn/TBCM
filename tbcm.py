@@ -248,7 +248,148 @@ import sympy as smp # allows for symbolic manipulation
 # Titze and Story (2002) https://watermark.silverchair.com/367_1_online.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAACAowgggGBgkqhkiG9w0BBwagggf3MIIH8wIBADCCB-wGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMbQBDndSoHCeUCSLaAgEQgIIHvd5H8GVSXH69O9d_ZqF8vaFsygTMZj9IvMcoyz66Wz4QrwTUppaWwczoIf324Hb4JElmJkwwOWZDnEGd1uBcSJpzqFtHLy5GGHU3Y0hDxqe2Cu5tvipcfaBVDyjv1YWLdQSNlvX-8N8ZpSJRHYLdCP4ZbFj_vl_451pltlFe5TrFC3F-0lyICHFW6RHQqkzQGbYz_iXch3MOLFzco_-Ji-XC-PciuntRYUaf6VAuLOzZkbBl7OA1GvgHCptdOFJxITO2w-RowMjoQQNR_2IcVuUfONn2zBqG9qIym3_PnWyvuUfyK57MxzmbAaNDQuUyFLABraq1DNvxjE0usfyo3TcpgG-O96__2YQuBEgvYP_VWs7IsgfzOl4CLUEL0Rw_X2WcodpVjoXI_IKVl93EGLiH3vV-_1RAnIEyNVLughMeJ0tlYtfgTcCHlDU9M0bT_7vDZlL4nc3Zcq7jUa8MOqPrt5OI1IX48tyrk2zp1DwlpbONYl9gR8Yr-0fQ_KEbleqMtwz0kWn5oSnabf_559ewdxx_v5HENW8FneE2XnYKRrinuvCu1wghucuTRCaVaZKoTtnBcGldaDb04UupGwwD3V1WJimKYHupF_3ouGPl07VP8NSAQNbaa_m7WrNgWaFBO2d9zZipi7Nov3jHYKUTjrD8frFgv__FNjw3f-xmA-uvrCFhPR9KVz4qnlo5nPnB1I_SR8Eoqd6xO8XEJL1HeT5r3bBmE1Cly1TO-1K5A72kMo2aPTXaxAgIwG_FJtbnicF3T7svsVgsYBCmn-kMkUutsOESeNn6AAfjaCoeWaXKgPQRuhDiDbCS5996amJJN3Ppuqb1zBLw8iyXnGhFL41HU33qJ8Z38Rdwgu---8UhtUNNwtGdZvYuZGbhsjdZCI939fSnkndcAVcbRilWXVewko7RT9DPhTyOs8qILNDxbHrWRYpaAv4H73Asv9VcPse7dpdDbhg-cstcy5pPgMh4kdKTU1QTpoY3PmCEou0HgmTVRkS1uich0XRXQbTzgoFUUP_yfpPwpJJnC3_aFeSxe928h5IdrRkTzY58CqQL09gJtj6qjY1bOPJZ6vfiYm8p6fig1RD3ZUxKdQn7giyKcgBjdKXrRqANsTqfMIHEoLZYyRPzBfMfdoncv5SPxcOsTklNmZr2wLI0ucGajuYONP1Nu6HrBracK3wiB2y-VxZamgWMXOSOORnRp1zf8NW2XIkmQwJ-Wq14nhrLHyxegtTYvDoCUuF5dxQ9Jxxs8Pdo20MwOKJ3C-bITsfCY7J7ciVWtfKjWNs00WUVdR0_hzTrjgTweor7uKTXFfBc3pgN5qXI08mtLXAtUYbIc8ZOjZCKb84_nK9urn1U2vNhEOdLBeyY8VE5E1VDcyd-hgUl0zkCaMht40Gk_fKnl4qI9rBTsmj-LbnRF6AD3DUsD94EjY1be2kP4dpzv_oAGHBYO7BGsTmZX6_zAUV13kefubvs8Ptu0twi_VPhpE_PHQTnkMFcGTbqt0079R_SgorqYDDv82cd11XJFvsRBVkG3yZUMsCHF-6S26LkPg4c6YoV3uY7Bqgrk2FSoJr3kZBI365kFrxGT-7spoXJQ6fxkVGyWP5Kg3fQWd9-FKEpHOYqED24LugKlib2uEs6pdbJNBtHpyW7qHH9RdQNPczqi57KsbjuZWlYPOWvp4fFCg9Jzf9YlO9bO41nj9e_XmJc9OcQ4VV-bB2-pgcaWA-ajWSu_O4n7bRKJDXye9M-7n_W10dADdJzgm7fEbZt_zNdOa04aU288UCmLX5HXVBeki0eLi-YKy89Ch7lpszGbzHPFF6yVvNoCALmbOhWvtGdxwHM1D8B_m8u2z9JOUSnD4_Y3pNCb7IeIXuhQD3hbmhc0gjKmOzMA-UKtZMhrdTDaCUlt7ei5wYSKdAPTyoKQgqayDZl6oCPMapk4VL_o6kVnHL1NPvOPJDbUYfVA3g_vlPfcSS-5WeFJfyGNXyf5lyn2hFT1Ijw5NaiSAhYET9tZSDAA5Zzj8qJQ9cfCN8Cen1usg7ncd9wJrWkJZZ2LlpUsic6TzGOw7stqB0mNOWtAfI5V_bRsstQy1H_rbmNbiLLVeF4N9r9gPp96qEh_vAlmaeG3qKoXCkjyHkadDslszOQwbBHM8vkUhg3h5wbdBS_BouBlOWtmMAaYPmHgQM7uHBIDYS2P9IjAKcl0s_chPeWa8JasKeZnjYmKFue_hea9UVTQmlS3qY7g7Vf1afZ70ww3nPtw37QGYAvHivGGbA7kT8LcGXx9aVqbgYhM7bLuR2fSdL9cAZRrAKu_X8p4_VGYC6CRxlYopQPKtG13nTbTvlZIsmijuS8Ezo4bm0X3fqM7sxbJ6P8uDuZWSG5-C7GLwhVAuHfVFy_6MJ9mP955UHo2uD3OS9GVvwwCqw15bJ9BgX0i-GVvHDuuInjnKf8lkTPTqhnxe4dq4hhWs4RSjOlYOi_gNJJFYObOFsFGJMs6ryN752_gcnijADuQND0t9U-lwRp74JvsKWiRBJC-bMvPUgi_tk6fxspJ9m_YF-PNYtb2TGfpHz3ysrZNVSzaPkiZXbzKFC0GeZX1ykifDC_JxflySo4oL82-lcVWfF7GMceY55nfDsHtsAu12j7oE4
 
 
-'''    if du != dl: # Avoid division by zero
+'''    
+'''
+
+
+
+'''
+For clairty, I'm defining these hear
+x_u_dd = None  # Second order derivative of position of upper mass wrt time
+x_l_dd = None  # Second order derivative of position of lower mass wrt time
+x_b_dd = None  # Second  order derivative of position of body mass wrt time
+'''
+
+'''
+#           --- All the equations for F_u ----
+F_ku = -k_u * ((u_displacement - b_displacement) + eta_u * (u_displacement - b_displacement) ** 3)
+F_du = -2 * zeta_u * np.sqrt(m_u * k_u) * (x_u_d - x_b_d)
+F_kc = -k_c * (l_displacement - u_displacement) 
+
+#           --- The equations for F_l ---
+F_kl = -k_l * ((l_displacement - b_displacement) + eta_u * (l_displacement - b_displacement) ** 3)
+F_dl = -2 * zeta_l * np.sqrt(m_l * k_l) * (x_l_d - x_b_d)
+# F_kc already defined
+
+#           --- The equations for F_b ---
+F_kb = -k_b * (b_displacement + eta_b * (b_displacement) ** 3)
+F_db = - 2 * zeta_b * np.sqrt(m_b * k_b) * (x_b_d)
+# F_ku, F_du, F_kl, F_dl, F_duCol and F_dlCol defined'
+
+
+
+#           --- Creating 1st order differential equations ---
+
+# Let q_u = d(x_u)/dt
+q_u = x_u_d
+q_u_d = (-k_u * ((u_displacement - b_displacement) + eta_u * (u_displacement - b_displacement) ** 3) + 
+            (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) - 
+            (-k_c * (l_displacement - u_displacement))) / m_u
+
+# Let q_l = d(x_l)/dt
+q_l = x_l_d
+q_l_d = (-k_l * ((l_displacement - b_displacement) + eta_u * (l_displacement - b_displacement) ** 3) + 
+            (-2 * zeta_l * np.sqrt(m_l * k_l) * (q_l - x_b_d)) + 
+            (-k_c * (l_displacement - u_displacement))) / m_l
+
+# Let q_b = d(x_b)/dt
+q_b = x_b_d
+q_b_d = (-k_b * (b_displacement + eta_b * (b_displacement) ** 3) + 
+            (-2 * zeta_b * np.sqrt(m_b * k_b) * q_b) - 
+            (-k_u * ((u_displacement - b_displacement) + eta_u * (u_displacement - b_displacement) ** 3)) + 
+            (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) + 
+            (-k_l * ((l_displacement - b_displacement) + eta_u * (l_displacement - b_displacement) ** 3)) + 
+            -2 * zeta_l * np.sqrt(m_l * k_l) * (q_u - q_b)) / m_b
+
+
+return [q_u,
+        q_l, 
+        q_b,  
+        (-k_u * (((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) + eta_u * ((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) ** 3) + 
+        (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) - 
+        (-k_c * ((x_l_1 - x_l_0) - (x_u_1 - x_u_0)))) / m_u, 
+        (-k_l * (((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) + eta_l * ((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) ** 3) + 
+        (-2 * zeta_l * np.sqrt(m_l * k_l) * (q_l - q_b)) + 
+        (-k_c * ((x_l_1 - x_l_0) - (x_u_1 - x_u_0)))) / m_l,
+        (-k_b * ((x_b_1 - x_b_0) + eta_b * ((x_b_1 - x_b_0)) ** 3) + 
+        (-2 * zeta_b * np.sqrt(m_b * k_b) * q_b) - 
+        (-k_u * (((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) + eta_u * ((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) ** 3)) + 
+        (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) + 
+        (-k_l * (((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) + eta_l * ((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) ** 3)) + 
+        -2 * zeta_l * np.sqrt(m_l * k_l) * (q_u - q_b)) / m_b]
+
+
+
+'''
+
+
+global Convergent
+
+
+
+#           --- Biomechanical Parameters ---
+
+m_u = 0.5  # Mass of upper block (m1)
+m_l = 0.5  # Mass of lower block (m2)
+m_b = 1.0  # Mass of body block (M)
+
+k_u = 25  # [N/m] Spring constant for upper mass
+k_l = 25  # [N/m] Spring constant for lower mass
+k_c = 50  # [N/m] Spring constant for coupling between masses
+k_b = 200 # [N/m] Spring constant for body cover mass
+
+# Rest positions relative to midpoint line (symmetric system)
+
+x_u_0 = 0.003 # [m] Initial position of the upper mass
+x_l_0 = 0.002 # [m] Initial position of the lower mass
+x_b_0 = 0.005  # [m] Initial position of the body mass
+
+#           ---  Non-Linear Spring Coefficients ---
+eta_u = 100*1e4  # [1/m^2] Non-linear spring coefficient for upper mass
+eta_l = 100*1e4  # [1/m^2] Non-linear spring coefficient for lower mass
+eta_b = 100*1e4  # [1/m^2] Non-linear spring coefficient for body mass
+
+zeta_u = 0.1  # Basic damping factor for upper mass
+zeta_l = 0.1  # Basic damping factor for lower mass
+zeta_b = 0.1  # Damping factor for body mass
+
+#           --- Collision Parameters ---
+k_u_col = 25  # [N/m] Linear collision spring constant for upper mass
+k_l_col = 25  # [N/m] Linear collision spring constant for lower mass
+eta_u_col = 100*1e4  # [1/m^2] Non-linear collision spring constant for upper mass
+eta_l_col = 100*1e4  # [1/m^2] Non-linear collision spring constant for lower mass
+
+zeta_u_col = 0.5  # Collision damping factor for upper mass
+zeta_l_col = 0.5  # Collision damping factor for lower mass
+#          --- Glottal Parameters ---
+a_t = 0.4 # [rad] Angle of the triangular glottis (maintained constant for now)
+L_a = 2e-3 # [m] Arytenoid length 
+L_g = 16e-2 # [m] Resting glottal length
+PGD = 2 * (a_t + L_a * np.sin(a_t)) # Posterior glottal distance, kept constant for now
+glottal_angle = 2 * np.arctan(PGD / L_g) # Since it's consant, works out to be ~ 2.7468
+    
+T_u = 3e-3 # [m] Thickness of upper layer 
+T_l = 3e-3 # [m] Thickness of lower layer 
+x_col = 0 # [m] Glottal-midline ~ used to turn on and off collision forces
+Convergent = True # The lower block starts closer to the midplane line, leading to convergent flow
+
+#        --- Pressures ---
+P_s = 579 # [Pa] Subglottal pressure
+P_i = 0 # needs to be adjusted - [Pa] Supraglottal pressure
+
+
+def dSdx(t, S):
+    x_u_1, x_l_1, x_b_1, q_u, q_l, q_b = S
+    
+    # Displacements relative to body mass
+    du = (x_u_1 - x_u_0) - (x_b_1 - x_b_0)  # Upper mass displacement
+    dl = (x_l_1 - x_l_0) - (x_b_1 - x_b_0)  # Lower mass displacement
+    db = (x_b_1 - x_b_0)                   # Body mass displacement
+
+    u_angle = 0.2 # [rad]
+    l_angle = 0.2 # [rad]
+
+    if du != dl: # Avoid division by zero
       z_intersect = L_g * (x_l_1 - x_u_1) / (du - dl)
       
       # Check if intersection is within glottal length
@@ -331,159 +472,13 @@ import sympy as smp # allows for symbolic manipulation
    # F_kl_col, _ = quad(fklCol, 0, L_c)
     F_ku_col = 0
     F_kl_col = 0
-'''
 
+    z_closed_u = 0
+    z_closed_l = 0
 
+  
 
-'''
-For clairty, I'm defining these hear
-x_u_dd = None  # Second order derivative of position of upper mass wrt time
-x_l_dd = None  # Second order derivative of position of lower mass wrt time
-x_b_dd = None  # Second  order derivative of position of body mass wrt time
-'''
-
-'''
-#           --- All the equations for F_u ----
-F_ku = -k_u * ((u_displacement - b_displacement) + eta_u * (u_displacement - b_displacement) ** 3)
-F_du = -2 * zeta_u * np.sqrt(m_u * k_u) * (x_u_d - x_b_d)
-F_kc = -k_c * (l_displacement - u_displacement) 
-
-#           --- The equations for F_l ---
-F_kl = -k_l * ((l_displacement - b_displacement) + eta_u * (l_displacement - b_displacement) ** 3)
-F_dl = -2 * zeta_l * np.sqrt(m_l * k_l) * (x_l_d - x_b_d)
-# F_kc already defined
-
-#           --- The equations for F_b ---
-F_kb = -k_b * (b_displacement + eta_b * (b_displacement) ** 3)
-F_db = - 2 * zeta_b * np.sqrt(m_b * k_b) * (x_b_d)
-# F_ku, F_du, F_kl, F_dl, F_duCol and F_dlCol defined'
-
-
-
-#           --- Creating 1st order differential equations ---
-
-# Let q_u = d(x_u)/dt
-q_u = x_u_d
-q_u_d = (-k_u * ((u_displacement - b_displacement) + eta_u * (u_displacement - b_displacement) ** 3) + 
-            (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) - 
-            (-k_c * (l_displacement - u_displacement))) / m_u
-
-# Let q_l = d(x_l)/dt
-q_l = x_l_d
-q_l_d = (-k_l * ((l_displacement - b_displacement) + eta_u * (l_displacement - b_displacement) ** 3) + 
-            (-2 * zeta_l * np.sqrt(m_l * k_l) * (q_l - x_b_d)) + 
-            (-k_c * (l_displacement - u_displacement))) / m_l
-
-# Let q_b = d(x_b)/dt
-q_b = x_b_d
-q_b_d = (-k_b * (b_displacement + eta_b * (b_displacement) ** 3) + 
-            (-2 * zeta_b * np.sqrt(m_b * k_b) * q_b) - 
-            (-k_u * ((u_displacement - b_displacement) + eta_u * (u_displacement - b_displacement) ** 3)) + 
-            (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) + 
-            (-k_l * ((l_displacement - b_displacement) + eta_u * (l_displacement - b_displacement) ** 3)) + 
-            -2 * zeta_l * np.sqrt(m_l * k_l) * (q_u - q_b)) / m_b
-
-
-return [q_u,
-        q_l, 
-        q_b,  
-        (-k_u * (((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) + eta_u * ((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) ** 3) + 
-        (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) - 
-        (-k_c * ((x_l_1 - x_l_0) - (x_u_1 - x_u_0)))) / m_u, 
-        (-k_l * (((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) + eta_l * ((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) ** 3) + 
-        (-2 * zeta_l * np.sqrt(m_l * k_l) * (q_l - q_b)) + 
-        (-k_c * ((x_l_1 - x_l_0) - (x_u_1 - x_u_0)))) / m_l,
-        (-k_b * ((x_b_1 - x_b_0) + eta_b * ((x_b_1 - x_b_0)) ** 3) + 
-        (-2 * zeta_b * np.sqrt(m_b * k_b) * q_b) - 
-        (-k_u * (((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) + eta_u * ((x_u_1 - x_u_0) - (x_b_1 - x_b_0)) ** 3)) + 
-        (-2 * zeta_u * np.sqrt(m_u * k_u) * (q_u - q_b)) + 
-        (-k_l * (((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) + eta_l * ((x_l_1 - x_l_0) - (x_b_1 - x_b_0)) ** 3)) + 
-        -2 * zeta_l * np.sqrt(m_l * k_l) * (q_u - q_b)) / m_b]
-'''
-global Convergent
-
-
-
-#           --- Biomechanical Parameters ---
-
-m_u = 0.5  # Mass of upper block (m1)
-m_l = 0.5  # Mass of lower block (m2)
-m_b = 1.0  # Mass of body block (M)
-
-k_u = 25  # [N/m] Spring constant for upper mass
-k_l = 25  # [N/m] Spring constant for lower mass
-k_c = 50  # [N/m] Spring constant for coupling between masses
-k_b = 200 # [N/m] Spring constant for body cover mass
-
-# Rest positions relative to midpoint line (symmetric system)
-
-x_u_0 = 0.003 # [m] Initial position of the upper mass
-x_l_0 = 0.002 # [m] Initial position of the lower mass
-x_b_0 = 0.005  # [m] Initial position of the body mass
-
-#           ---  Non-Linear Spring Coefficients ---
-eta_u = 100*1e4  # [1/m^2] Non-linear spring coefficient for upper mass
-eta_l = 100*1e4  # [1/m^2] Non-linear spring coefficient for lower mass
-eta_b = 100*1e4  # [1/m^2] Non-linear spring coefficient for body mass
-
-zeta_u = 0.1  # Basic damping factor for upper mass
-zeta_l = 0.1  # Basic damping factor for lower mass
-zeta_b = 0.1  # Damping factor for body mass
-
-#           --- Collision Parameters ---
-k_u_col = 25  # [N/m] Linear collision spring constant for upper mass
-k_l_col = 25  # [N/m] Linear collision spring constant for lower mass
-eta_u_col = 100*1e4  # [1/m^2] Non-linear collision spring constant for upper mass
-eta_l_col = 100*1e4  # [1/m^2] Non-linear collision spring constant for lower mass
-
-zeta_u_col = 0.5  # Collision damping factor for upper mass
-zeta_l_col = 0.5  # Collision damping factor for lower mass
-#          --- Glottal Parameters ---
-a_t = 0.4 # [rad] Angle of the triangular glottis (maintained constant for now)
-L_a = 2e-3 # [m] Arytenoid length 
-L_g = 16e-2 # [m] Resting glottal length
-PGD = 2 * (a_t + L_a * np.sin(a_t)) # Posterior glottal distance, kept constant for now
-glottal_angle = 2 * np.arctan(PGD / L_g) # Since it's consant, works out to be ~ 2.7468
-    
-T_u = 3e-3 # [m] Thickness of upper layer 
-T_l = 3e-3 # [m] Thickness of lower layer 
-x_col = 0 # [m] Glottal-midline ~ used to turn on and off collision forces
-Convergent = True # The lower block starts closer to the midplane line, leading to convergent flow
-
-#        --- Pressures ---
-P_s = 579 # [Pa] Subglottal pressure
-P_i = 0 # needs to be adjusted - [Pa] Supraglottal pressure
-
-
-def dSdx(t, S):
-    x_u_1, x_l_1, x_b_1, q_u, q_l, q_b = S
-    
-    # Displacements relative to body mass
-    du = (x_u_1 - x_u_0) - (x_b_1 - x_b_0)  # Upper mass displacement
-    dl = (x_l_1 - x_l_0) - (x_b_1 - x_b_0)  # Lower mass displacement
-    db = (x_b_1 - x_b_0)                   # Body mass displacement
-
-
-    ''' area is enclosed if the masses travel mass the glottal midpoint line
-
-    the x pos of the mass is given by:
-            x(z) = current_pos + displacement/L_g * z
-
-    setting x(z) to 0, we see
-            0 = current_pos + displacement/L_g * z
-
-    solving for z
-            z = -current_pos * L_g / displacement
-            if du != 0: # Avoid div by zero
-        z_closed_u = -x_u_1 * (L_g / du) 
-    else:
-        z_closed_u = 0
-    
-    if dl != 0:
-        z_closed_l = -x_l_1 * (L_g / dl)
-    else:
-        z_closed_l = 0
-    '''
+ 
 
      
 
